@@ -1,0 +1,14 @@
+:root{
+    __cor_de_fundo:#ebecee
+}
+body{
+    background-color:black
+}
+h1{
+    text-align: center;
+    color: white;
+}
+p{
+   text-align: center;
+    color: white;
+}
